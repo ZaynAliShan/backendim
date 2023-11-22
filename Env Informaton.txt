@@ -1,0 +1,3 @@
+MONGO_URL=mongodb+srv://AsadNaeem:ScENPJgqyMYOn8U1@cluster0.fqqlbrx.mongodb.net/Inventory_Manager_API?retryWrites=true&w=majority
+JWT_SECRET=f7f14b5b856947d4357be37f911ee69dff4badc3b849a106751699b3866cdf1872bcd0dff2d539280ae6239b2b18275da0be965c2dff20f5c699414bdeb3f97d
+JWT_LIFETIME=1d
